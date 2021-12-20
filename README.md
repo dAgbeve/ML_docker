@@ -1,4 +1,4 @@
-# ML_docker
+# Docker 4 ML
 
 Containerization for implementing most of my ML projects. Usually those aspects
 of the procedure that can be done on my computer.
